@@ -6,4 +6,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/sarthak-1/
 -   To see my machine learning skills: https://www.kaggle.com/sarthakkhadka
 -   To see my analytic skills in Tableau: https://public.tableau.com/profile/sarthak.khadka#!/
-- ⚡ Fun fact: I am an artist.
+- ⚡ Fun fact: I am a musician.
